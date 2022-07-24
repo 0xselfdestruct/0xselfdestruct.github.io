@@ -176,7 +176,7 @@ function App() {
             textAlign: "center",
           }}>
             <Typography fontWeight={"bold"}>Aselsis A.Ş. | Front-End & Mobile Application Developer</Typography>
-            <Typography component={"span"} color={"gray"}>Oct 2016 - Dec 2020 | Antalya/Turkey</Typography>
+            <Typography component={"span"} color={"gray"}>Dec 2020 - Aug 2021 | Antalya/Turkey</Typography>
             <Typography variant="body2">
               I Worked in a Front-End development team on applications like Online school app(web),
               Truck logistics app(web, mobile) and Vehicle GPS tracking system(web, mobile),
